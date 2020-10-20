@@ -1,6 +1,9 @@
 
 # Spoken To Written
 
+Here is the docs file for the first part of the question:-
+https://docs.google.com/document/d/1QJaSQ1lNxXl33JkOdvAX14QNoZbv_HVhDVeVrdKLNFA/edit?usp=sharing
+
 This is a Python module which can that can convert a paragraph of spoken english to written english.
 
  For example, "two dollars" should be converted to $2. Abbreviations spoken as "C M" or "Triple A" should be written as "CM" and "AAA" respectively.
